@@ -9,3 +9,4 @@ The NFT Raffle Smart Contract is designed to facilitate a raffle system where pa
 - **Random Winner Selection**: A random winner is selected when the raffle ends.
 - **Prize Distribution**: The NFT prize is automatically transferred to the winner's wallet.
 - **Transparency**: All transactions and raffle details are recorded on the blockchain.
+ 
